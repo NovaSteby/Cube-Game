@@ -1,1 +1,1 @@
-this is a cube game
+This is a simple cube game made in Unity.
